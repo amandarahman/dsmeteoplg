@@ -9,7 +9,7 @@ Aplikasi berbasis web ini menyajikan hasil peramalan parameter iklim temporal di
 * **Visualisasi Tren Interaktif:** Grafik garis yang menampilkan data historis dan hasil prediksi dengan fitur *hover* untuk melihat detail nilai pada tanggal, bulan, dan tahun tertentu.
 * **Filter Parameter Meteorologi:** Menyajikan 8 parameter utama: Temperatur (Minimum & Maksimum), Kelembapan, Curah Hujan, Penyinaran Matahari, serta Kecepatan dan Arah Angin.
 * **Pencarian Prediksi Spesifik:** Pengguna dapat mencari nilai prediksi secara spesifik pada tanggal tertentu melalui fitur kalender yang terintegrasi.
-* **Metrik Akurasi Ilmiah:** Penjelasan performa model melalui nilai **RMSE, MAE, dan R-Squared ()** untuk menjamin transparansi kualitas hasil peramalan.
+* **Metrik Akurasi Ilmiah:** Penjelasan performa model melalui nilai **RMSE, MAE, dan R-Squared** untuk menjamin transparansi kualitas hasil peramalan.
 * **Analisis Validitas (Residual):** Tampilan sebaran *error* model (Residual Plot) yang membuktikan tingkat validitas hasil prediksi secara statistik.
 
 ---
